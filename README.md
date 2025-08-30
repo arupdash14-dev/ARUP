@@ -1,3 +1,3 @@
 # ARUP
 this is my first Repository
-Ather -Arup kumar dash
+Auther -Arup kumar dash
